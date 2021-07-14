@@ -1,0 +1,53 @@
+Starting test 1
+Finished test 1
+Test 1:		PASSED
+Starting test 2
+Finished test 2
+Test 2:		PASSED
+Starting test 3
+Finished test 3
+Test 3:		PASSED
+Starting test 4
+Finished test 4
+Test 4:		PASSED
+Starting test 5
+Finished test 5
+Test 5:		PASSED
+Starting test 6
+Finished test 6
+Test 6:		PASSED
+Starting test 7
+Finished test 7
+Test 7:		PASSED
+Starting test 8
+TIMEOUT. Test 8 exceeded maximum allowed time of 30
+Finished test 8
+Test 8:		FAILED
+Starting test 9
+Finished test 9
+Test 9:		PASSED
+Starting test 10
+Finished test 10
+Test 10:		PASSED
+Using config file /home/labaman/Anul3/2-Sem/ASC/teme/asc/assignments/1-marketplace/skel/pylintrc
+************* Module product
+R: 12, 0: Too few public methods (0/1) (too-few-public-methods)
+R: 21, 0: Too few public methods (0/1) (too-few-public-methods)
+R: 29, 0: Too few public methods (0/1) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 9.69/10 (previous run: 7.65/10, +2.04)
+
+TIMEOUT. Tests exceeded maximum allowed time of 360
+
+Run pylint
+
+Using config file /home/labaman/Anul3/2-Sem/ASC/teme/asc/assignments/1-marketplace/skel/pylintrc
+************* Module product
+R: 12, 0: Too few public methods (0/1) (too-few-public-methods)
+R: 21, 0: Too few public methods (0/1) (too-few-public-methods)
+R: 29, 0: Too few public methods (0/1) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 9.69/10 (previous run: 9.69/10, +0.00)
+
