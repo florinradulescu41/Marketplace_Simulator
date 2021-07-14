@@ -1,7 +1,3 @@
-Name: Florin RADULESCU
-Group: 333CC
-
-# Homework NR1
 
 Organization
 
